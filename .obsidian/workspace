@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "9b7fea106a71b315",
+    "type": "split",
+    "children": [
+      {
+        "id": "8800211116f589b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "216fe04e06e689d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "415416d8855a0ffa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8da654fbbee82119",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "888b4b276b1a2899",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "00ca5edae9556a32",
+    "type": "split",
+    "children": [
+      {
+        "id": "59c27f777d7ab691",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b72efcd0c58c6b59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8800211116f589b7",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Pet project/Идеи pet-project.md",
+    "django/start project/Venv.md",
+    "django/start project/Strart Django project.md",
+    "django/start project/Requirements.md",
+    "django/HTML tags and forms/Field Tags.md",
+    "django/start project/Запуск Local server.md",
+    "Pet project/Basic rulez for pet project Django.md",
+    "django/HTML tags and forms/Untitled.md",
+    "basics/Data structures and data types/Basics data types.md"
+  ]
+}
