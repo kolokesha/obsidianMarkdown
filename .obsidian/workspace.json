@@ -11,10 +11,11 @@
             "id": "55e209f2368356a8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "golang/Basics/Data Types/Interface/Interface.md",
-                "staged": false
+                "file": "golang/Basics/Data Types/Массивы.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Скопировать",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "golang/Basics/Data Types/Массивы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,11 +115,11 @@
   },
   "active": "55e209f2368356a8",
   "lastOpenFiles": [
-    "golang/Basics/Data Types/Interface/Interface.md",
-    "golang/Basics/Data Types/Массивы.md",
     "golang/Basics/Data Types/Interface/Пустой интерфейс.md",
     "golang/Basics/Data Types/Interface/Рефлексия.md",
+    "golang/Basics/Data Types/Interface/Interface.md",
     "golang/Basics/Data Types/Interface/Интерфейсы в стандартной библиотеки.md",
+    "golang/Basics/Data Types/Массивы.md",
     "golang/Basics/Многопоточность.md",
     "golang/Basics/Testing/Mock.md",
     "golang/Basics/Testing/Coverage.md",
