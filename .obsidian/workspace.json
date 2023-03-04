@@ -11,11 +11,10 @@
             "id": "55e209f2368356a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "golang/Basics/Data Types/Interface/Пустой интерфейс.md",
-                "mode": "source",
-                "source": false
+                "file": ".DS_Store",
+                "staged": false
               }
             }
           }
@@ -61,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 373.5
   },
   "right": {
     "id": "00ca5edae9556a32",
@@ -77,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang/Basics/Data Types/Interface/Пустой интерфейс.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +85,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "58e82f8d67d98829",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -105,9 +111,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55e209f2368356a8",
+  "active": "58e82f8d67d98829",
   "lastOpenFiles": [
     "golang/Basics/Data Types/Interface/Пустой интерфейс.md",
+    "golang/Basics/Data Types/Interface/Рефлексия.md",
     "golang/Basics/Data Types/Interface/Интерфейсы в стандартной библиотеки.md",
     "golang/Basics/Data Types/Массивы.md",
     "golang/Basics/Многопоточность.md",
@@ -116,7 +123,6 @@
     "golang/Basics/Testing/Testing.md",
     "golang/Basics/Errors/Panic, recover.md",
     "golang/Basics/Errors/Errors.md",
-    "golang/Basics/Data Types/Interface/Рефлексия.md",
     "golang/Basics/Data Types/Interface/Interface.md",
     "golang/Basics/OOP/Base.md"
   ]
