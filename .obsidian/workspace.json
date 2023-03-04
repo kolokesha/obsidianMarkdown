@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".DS_Store",
+                "file": "golang/Basics/Data Types/Interface/Interface.md",
                 "staged": false
               }
             }
@@ -111,19 +111,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "58e82f8d67d98829",
+  "active": "55e209f2368356a8",
   "lastOpenFiles": [
+    "golang/Basics/Data Types/Interface/Interface.md",
+    "golang/Basics/Data Types/Массивы.md",
     "golang/Basics/Data Types/Interface/Пустой интерфейс.md",
     "golang/Basics/Data Types/Interface/Рефлексия.md",
     "golang/Basics/Data Types/Interface/Интерфейсы в стандартной библиотеки.md",
-    "golang/Basics/Data Types/Массивы.md",
     "golang/Basics/Многопоточность.md",
     "golang/Basics/Testing/Mock.md",
     "golang/Basics/Testing/Coverage.md",
     "golang/Basics/Testing/Testing.md",
     "golang/Basics/Errors/Panic, recover.md",
     "golang/Basics/Errors/Errors.md",
-    "golang/Basics/Data Types/Interface/Interface.md",
     "golang/Basics/OOP/Base.md"
   ]
 }
